@@ -1,6 +1,3 @@
-# Deep-Learning
-Projeto de deep learning em estagio inicial. Esse processo conta com a EDA dos dados e substituição dos dados NaN da coluna "Alcohol intake" por uma predição utilizando tecnicas de validação cruzada e regressão logistica.
-
 # Documentação do Projeto: Previsão de Doenças Cardíacas utilizando Deep Learning
 
 ## Objetivo
